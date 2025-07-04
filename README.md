@@ -4,7 +4,7 @@ A fully functional Amazon Clone built using **React**, **Redux Toolkit**, **Fire
 
 ---
 
-## 🔗 Live Demo
+## 🔗 Live Link
 
 👉 [Click here to view the live site](https://e-commerce-app-ten-rouge.vercel.app/)
 
