@@ -6,7 +6,7 @@ A fully functional Amazon Clone built using **React**, **Redux Toolkit**, **Fire
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the live site](https://your-amazon-clone.vercel.app)
+👉 [Click here to view the live site](https://e-commerce-app-ten-rouge.vercel.app/)
 
 ## 🎥 Demo Video
 
@@ -46,5 +46,9 @@ A fully functional Amazon Clone built using **React**, **Redux Toolkit**, **Fire
 | Next.js        | Server-side rendering|
 | Vercel         | Deployment                     |
 
---
+
+
+⚠️ Disclaimer
+
+This project is a personal educational clone of the Amazon website. It was built solely for learning purposes using React, ReduxToolkit, Tailwind CSS, Next.js, and Firebase. This project is not affiliated with, endorsed by, or connected to Amazon.com in any way.
 
