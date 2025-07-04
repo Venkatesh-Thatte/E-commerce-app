@@ -47,8 +47,12 @@ A fully functional Amazon Clone built using **React**, **Redux Toolkit**, **Fire
 | Vercel         | Deployment                     |
 
 
+---
 
-⚠️ Disclaimer
+### ⚠️ Disclaimer
 
-This project is a personal educational clone of the Amazon website. It was built solely for learning purposes using React, ReduxToolkit, Tailwind CSS, Next.js, and Firebase. This project is not affiliated with, endorsed by, or connected to Amazon.com in any way.
+> **This project is a personal educational clone of the Amazon website.**  
+> It was built solely for learning purposes using **React**, **Redux Toolkit**, **Tailwind CSS**, **Next.js**, and **Firebase**.  
+> This project is **not affiliated with, endorsed by, or connected to Amazon.com** in any way.
+
 
