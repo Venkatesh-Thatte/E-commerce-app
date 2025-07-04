@@ -49,7 +49,7 @@ A fully functional Amazon Clone built using **React**, **Redux Toolkit**, **Fire
 
 ---
 
-### ⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 > **This project is a personal educational clone of the Amazon website.**  
 > It was built solely for learning purposes using **React**, **Redux Toolkit**, **Tailwind CSS**, **Next.js**, and **Firebase**.  
