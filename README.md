@@ -1,6 +1,6 @@
 # 🛒 Amazon Clone
 
-A fully functional Amazon Clone built using **React**, **Redux Toolkit**, **Firebase**, and **Tailwind CSS**. This project replicates key features of the Amazon e-commerce experience, including product listings, cart functionality, authentication, and checkout UI with fully responsive.
+A fully functional Amazon Clone built using **React**, **Redux Toolkit**, **Firebase**, and **Tailwind CSS**. This project replicates key features of the Amazon e-commerce experience, including product listings, cart functionality and authentication with fully responsive.
 
 ---
 
